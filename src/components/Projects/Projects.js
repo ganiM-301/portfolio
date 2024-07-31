@@ -25,8 +25,8 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              title="Calculator"
+              description="An advanced scientific calculator built with React.js, offering robust functionalities including trigonometric and logarithmic, exponential and statistical calculations. The Intuitive interface ensures a seamless user experience, perfect for student, professionals and enthusiasts in need of precise mathematical computations."
               ghLink="https://github.com/soumyajit4419/Chatify"
               demoLink="https://chatify-49.web.app/"
             />
