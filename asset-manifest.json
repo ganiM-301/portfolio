@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.0df4bba8.css",
+    "main.js": "/portfolio/static/js/main.e9628eb1.js",
+    "static/js/415.4d6acbeb.chunk.js": "/portfolio/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Ganesh Resume.pdf": "/portfolio/static/media/Ganesh Resume.f226072c35cc64f66000.pdf",
+    "static/media/blog.png": "/portfolio/static/media/blog.0e389a4c2b308854faab.png",
+    "static/media/codeEditor.png": "/portfolio/static/media/codeEditor.0e389a4c2b308854faab.png",
+    "static/media/emotion.png": "/portfolio/static/media/emotion.0e389a4c2b308854faab.png",
+    "static/media/leaf.png": "/portfolio/static/media/leaf.0e389a4c2b308854faab.png",
+    "static/media/suicide.png": "/portfolio/static/media/suicide.0e389a4c2b308854faab.png",
+    "static/media/home-main.svg": "/portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/chatify.png": "/portfolio/static/media/chatify.6be27c2ac0a7ce432d81.png",
+    "static/media/logo.png": "/portfolio/static/media/logo.cead5ada6afd481854ed.png",
+    "static/media/home-bg.jpg": "/portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/portfolio/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/portfolio/index.html",
+    "main.0df4bba8.css.map": "/portfolio/static/css/main.0df4bba8.css.map",
+    "main.e9628eb1.js.map": "/portfolio/static/js/main.e9628eb1.js.map",
+    "415.4d6acbeb.chunk.js.map": "/portfolio/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0df4bba8.css",
+    "static/js/main.e9628eb1.js"
+  ]
+}
