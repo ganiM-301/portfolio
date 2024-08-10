@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Calculator"
               description="An advanced scientific calculator built with React.js, offering robust functionalities including trigonometric and logarithmic, exponential and statistical calculations. The Intuitive interface ensures a seamless user experience, perfect for student, professionals and enthusiasts in need of precise mathematical computations."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              ghLink="https://github.com/ganiM-301/scientific-calculator"
+              demoLink=""
             />
           </Col>
 
