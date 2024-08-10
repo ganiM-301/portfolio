@@ -10,7 +10,7 @@ function Github() {
         Days I <strong className="purple">Code</strong>
       </h1>
       <LeetCodeCalendar
-        username="Ganeshmelumalige"
+        username="ganiM-301"
         blockSize={15}
         blockMargin={5}
         color="#c084f5"
