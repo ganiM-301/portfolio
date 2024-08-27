@@ -10,7 +10,7 @@ function Type() {
           "Java web Development",
           "React.js web Development",
           "Full stack web Development",
-          "Database management"
+          "Database management",
         ],
         autoStart: true,
         loop: true,
